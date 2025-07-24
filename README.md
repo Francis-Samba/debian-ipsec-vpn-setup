@@ -8,7 +8,7 @@ This document outlines the successful implementation of a robust Site-to-Site IP
 
 ### Project Overview
 
-The objective was to establish a secure and reliable IPsec VPN tunnel between a Debian server (Site A) and a remote network hosted by a third-party (Site B, Cellcom API endpoint). This VPN was critical for enabling secure communication and API integration over private network segments, bypassing public internet routing for sensitive traffic.
+The objective was to establish a secure and reliable IPsec VPN tunnel between a Debian server (Site A) and a remote network hosted by a third-party (Site B, Operator API endpoint). This VPN was critical for enabling secure communication and API integration over private network segments, bypassing public internet routing for sensitive traffic.
 
 ## Key Achievements
 
